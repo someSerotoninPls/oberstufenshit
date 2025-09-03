@@ -53,6 +53,7 @@ public class ZahlenRaten {
                 System.out.println("Ungültige Eingabe.");
                 continue;
             }
+            
 
             try {
                 Thread.sleep(3000);
